@@ -1,7 +1,7 @@
 export const seoConfig = {
   title: 'Vatsal Shah | Senior Full Stack Developer | Laravel, React & Node.js',
   description:
-    'Senior Full Stack Developer with 4.5+ years of experience building scalable products with Laravel, React.js, Node.js, Express.js, and MySQL. Explore projects, experience, and book a free consultation.',
+    'Senior Full Stack Developer with 5+ years of experience building scalable products with Laravel, React.js, Node.js, Express.js, and MySQL. Explore projects, experience, and book a free consultation.',
   keywords:
     'Vatsal Shah, Full Stack Developer, Laravel Developer, React Developer, Node.js Developer, ExpressJS Developer, PHP Developer, API Developer, MySQL Developer, Senior Web Developer India, Portfolio',
   author: 'Vatsal Shah',

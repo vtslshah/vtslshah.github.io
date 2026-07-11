@@ -20,7 +20,7 @@ export default function Resume() {
     <section id="resume" className="resume-section section-separator">
       <div className="container section-gap">
         <SectionTitle
-          subtitle="4.5+ Years of Professional Experience"
+          subtitle="5+ Years of Professional Experience"
           title="My Resume"
         />
 
